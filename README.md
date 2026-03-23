@@ -1,4 +1,5 @@
 Neural Network Learning Projectile Motion
+
 This project trains a small neural network to learn the underlying physical law of projectile motion using only simulated data. The model receives initial velocity, launch angle, and time as inputs, and predicts the projectile’s x and y positions. The goal is to demonstrate how machine learning can approximate smooth physical functions and to visualize how well the model learns over time.
 
 
