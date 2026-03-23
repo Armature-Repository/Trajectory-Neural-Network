@@ -41,11 +41,13 @@ python predict.py
 
 
 Training Loss Curve
+
 <img width="640" height="480" alt="loss" src="https://github.com/user-attachments/assets/93b34a06-bab9-444e-a25a-aa6ce4cd1dc5" />
 
 This plot shows how the model’s mean squared error decreases over time. As the number of epochs increases, the network gradually learns the smooth mapping from (v_0,\theta ,t) to (x,y).
 
 Predicted vs. True Trajectory
+
 <img width="640" height="480" alt="trajectory_comparison" src="https://github.com/user-attachments/assets/83059720-7f1b-430a-b5ec-3edea50c0a68" />
 This plot compares the neural network’s predicted projectile path with the true analytical solution. A close match indicates that the model has successfully learned the underlying physical law.
 
