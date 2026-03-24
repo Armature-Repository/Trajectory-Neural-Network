@@ -49,7 +49,7 @@ This plot shows how the model’s mean squared error decreases over time. As the
 
 Predicted vs. True Trajectory
 
-<img width="640" height="480" alt="trajectory_comparison" src="https://github.com/user-attachments/assets/83059720-7f1b-430a-b5ec-3edea50c0a68" />
+<img width="640" height="480" alt="trajectory_comparison" src="https://github.com/user-attachments/assets/7b972c00-7244-43e3-9cc7-8166755a60fa" />
 This plot compares the neural network’s predicted projectile path with the true analytical solution. A close match indicates that the model has successfully learned the underlying physical law.
 
 
